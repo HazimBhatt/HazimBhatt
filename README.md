@@ -13,7 +13,7 @@
 ### 🔥 About Me
 - 🔭 Currently working on [**CoverLetter4U**](https://www.coverletter4u.com/)  
 - 🌱 Learning **React Native** & mobile-first development  
-- 📝 I write tech blogs at [blog.hazimbhat.site](https://blog.hazimbhat.site)  
+- 📝 I write tech blogs at [blog.hazimbhat.site](https://coverletter4u.com/blog)  
 - 💬 Ask me about **MERN Stack, Next.js, Python, C++**  
 - 📄 [View My Resume](https://www.hazimbhat.site/assets/resume.pdf)  
 
