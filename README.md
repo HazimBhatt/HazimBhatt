@@ -1,49 +1,59 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Hazim Bhat</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Problem Solver</h3>
+<!-- HERO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hazim+Bhat;I+Ship+Products.+Not+Just+Code.;Next.js+%7C+AI+Systems+%7C+Product+Engineering;Built+for+Leverage+%E2%80%94+Not+Hourly+Work." />
+</h1>
 
 <p align="center">
-  <a href="https://www.hazimbhat.site"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://blog.hazimbhat.site"><img src="https://img.shields.io/badge/Blog-%23E4405F.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="mailto:admin@hazimbhat.site"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hazimbhatt&color=0ea5e9&style=flat-square" />
 </p>
 
 ---
 
-### 🔥 About Me
-- 🔭 Currently working on [**CoverLetter4U**](https://www.coverletter4u.com/)  
-- 🌱 Learning **React Native** & mobile-first development  
-- 📝 I write tech blogs at [blog.hazimbhat.site](https://coverletter4u.com/blog)  
-- 💬 Ask me about **MERN Stack, Next.js, Python, C++**  
-- 📄 [View My Resume](https://www.hazimbhat.site/assets/resume.pdf)  
+## I Don’t “Do Web Development”.
+
+I build **internet assets**.
+
+Things that:
+- Capture attention  
+- Convert traffic  
+- Generate revenue  
+- Compound over time  
+
+No hype launches.  
+No vanity metrics.  
+Just execution.
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/bhathazim786"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://linkedin.com/in/hazim-yousuf-05ab652a6"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.hazimbhat.site"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
+## 🚧 Currently Building
+
+### 🔥 CoverLetter4U  
+AI proposal engine helping freelancers save connects & increase win probability.
+
+> Because 50 proposals with no strategy is just digital begging.
 
 ---
 
-### 🛠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,cpp,java,php,vue,redux,mongodb,mysql,postgres,redis,aws,docker,linux,git,html,css,tailwind,sass,bootstrap,figma,webpack,firebase,django" />
-</p>
+### 🚀 EverFeatured  
+A curated product visibility platform focused on depth over launch-day noise.
+
+Not a hype board.  
+Not a traffic spike.  
+
+A **permanent product presence layer** designed for:
+- SEO longevity  
+- Structured product positioning  
+- Credible backlinks  
+- Serious founders  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazimbhatt&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimbhatt&theme=tokyonight" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazimbhatt&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+## How I Think
 
----
-
-⭐ From [Hazim Bhat](https://github.com/hazimbhatt)
+```ts
+function build(product) {
+  if (!product.solvesRealProblem) return reject();
+  if (!product.hasDistribution) designDistribution();
+  if (!product.makesMoney) rethinkModel();
+  return shipFast(product);
+}
