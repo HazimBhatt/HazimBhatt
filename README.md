@@ -9,51 +9,107 @@
 
 ---
 
-## I Don’t “Do Web Development”.
+## I Build Internet Assets.
 
-I build **internet assets**.
+Not demo projects.  
+Not cloned dashboards.  
 
-Things that:
-- Capture attention  
-- Convert traffic  
-- Generate revenue  
+Products designed to:
+- Attract attention  
+- Hold attention  
+- Convert attention  
 - Compound over time  
-
-No hype launches.  
-No vanity metrics.  
-Just execution.
 
 ---
 
 ## 🚧 Currently Building
 
 ### 🔥 CoverLetter4U  
-AI proposal engine helping freelancers save connects & increase win probability.
+AI-powered proposal engine helping freelancers save connects & increase win probability.
 
-> Because 50 proposals with no strategy is just digital begging.
+> Precision beats volume.
 
 ---
 
 ### 🚀 EverFeatured  
-A curated product visibility platform focused on depth over launch-day noise.
+A curated product visibility layer focused on structured positioning over launch-day hype.
 
-Not a hype board.  
-Not a traffic spike.  
-
-A **permanent product presence layer** designed for:
-- SEO longevity  
-- Structured product positioning  
+Built for:
+- Long-term SEO presence  
 - Credible backlinks  
 - Serious founders  
+- Sustainable discovery  
 
 ---
 
-## How I Think
+## Execution > Motivation
 
-```ts
-function build(product) {
-  if (!product.solvesRealProblem) return reject();
-  if (!product.hasDistribution) designDistribution();
-  if (!product.makesMoney) rethinkModel();
-  return shipFast(product);
-}
+Some people track streaks.  
+I track shipped systems.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimbhatt&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+Consistency is not aesthetics.  
+It’s infrastructure.
+
+---
+
+## Development Pulse
+
+This graph isn’t decoration.  
+It’s proof of iteration.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazimbhatt&theme=tokyo-night&hide_border=true" />
+</p>
+
+Each square =  
+Refinement. Refactor. Deployment. Learning.
+
+---
+
+## Signal, Not Noise
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazimbhatt&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazimbhatt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+Languages don’t matter.  
+Problem-solving does.
+
+---
+
+## Core Stack (Used Intentionally)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,python,mongodb,postgres,redis,aws,docker,linux,git,tailwind" />
+</p>
+
+Tools are replaceable.  
+Execution isn’t.
+
+---
+
+## Digital Base
+
+<p align="center">
+  <a href="https://www.hazimbhat.site">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://blog.hazimbhat.site">
+    <img src="https://img.shields.io/badge/Writing-111?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/bhathazim786">
+    <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Hazim Bhat</strong><br/>
+  Building products that survive beyond launch day.
+</p>
