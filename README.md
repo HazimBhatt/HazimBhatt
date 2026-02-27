@@ -1,6 +1,7 @@
-<!-- HERO -->
+<!-- ================= HERO ================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hazim+Bhat;I+Ship+Products.+Not+Just+Code.;Next.js+%7C+AI+Systems+%7C+Product+Engineering;Built+for+Leverage+%E2%80%94+Not+Hourly+Work." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1500&color=22D3EE&center=true&vCenter=true&width=900&lines=Hazim+Bhat;Product+Engineer;Building+things+that+last;Next.js+%7C+AI+%7C+Full+Stack" />
 </h1>
 
 <p align="center">
@@ -9,98 +10,91 @@
 
 ---
 
-## I Build Internet Assets.
+## What I Do
 
-Not demo projects.  
-Not cloned dashboards.  
+I build products.
 
-Products designed to:
-- Attract attention  
-- Hold attention  
-- Convert attention  
-- Compound over time  
+Not experiments that sit in a repo.
+Not polished demos that never get users.
 
----
+Real things.  
+Used by real people.  
+Improved over time.
 
-## 🚧 Currently Building
-
-### 🔥 CoverLetter4U  
-AI-powered proposal engine helping freelancers save connects & increase win probability.
-
-> Precision beats volume.
+I care about distribution as much as development.
+Shipping as much as designing.
 
 ---
 
-### 🚀 EverFeatured  
-A curated product visibility layer focused on structured positioning over launch-day hype.
+## Currently Working On
 
-Built for:
-- Long-term SEO presence  
-- Credible backlinks  
-- Serious founders  
-- Sustainable discovery  
+### CoverLetter4U  
+An AI tool that helps freelancers write better proposals and stop wasting connects.
+
+The focus isn’t automation.  
+It’s increasing actual win chances.
 
 ---
 
-## Execution > Motivation
+### EverFeatured  
+A curated product platform built for long-term visibility.
 
-Some people track streaks.  
-I track shipped systems.
+Not a launch-day spike.  
+Not a hype directory.
+
+Structured listings, real depth, and SEO that compounds instead of disappearing.
+
+---
+
+## Activity
+
+I ship consistently.  
+That’s the only metric that matters.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimbhatt&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimbhatt&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-Consistency is not aesthetics.  
-It’s infrastructure.
 
 ---
 
-## Development Pulse
+## Work Over Time
 
-This graph isn’t decoration.  
-It’s proof of iteration.
+This is just the public side of the work.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazimbhatt&theme=tokyo-night&hide_border=true" />
 </p>
 
-Each square =  
-Refinement. Refactor. Deployment. Learning.
-
 ---
 
-## Signal, Not Noise
+## Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazimbhatt&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazimbhatt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hazimbhatt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hazimbhatt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-Languages don’t matter.  
-Problem-solving does.
+Languages change.  
+The ability to build doesn’t.
 
 ---
 
-## Core Stack (Used Intentionally)
+## Stack I Use Often
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,python,mongodb,postgres,redis,aws,docker,linux,git,tailwind" />
 </p>
 
-Tools are replaceable.  
-Execution isn’t.
-
 ---
 
-## Digital Base
+## Links
 
 <p align="center">
   <a href="https://www.hazimbhat.site">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://blog.hazimbhat.site">
-    <img src="https://img.shields.io/badge/Writing-111?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href="https://everfeatured.com">
+    <img src="https://img.shields.io/badge/EverFeatured-111?style=for-the-badge" />
   </a>
   <a href="https://twitter.com/bhathazim786">
     <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -110,6 +104,5 @@ Execution isn’t.
 ---
 
 <p align="center">
-  <strong>Hazim Bhat</strong><br/>
-  Building products that survive beyond launch day.
+  Hazim Bhat
 </p>
