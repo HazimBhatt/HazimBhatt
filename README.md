@@ -70,8 +70,8 @@ This is just the public side of the work.
 ## Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hazimbhatt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hazimbhatt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazimbhatt&theme=tokyonight" height=17/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hazimbhatt&theme=tokyonight" height="170"/>
 </p>
 
 Languages change.  
