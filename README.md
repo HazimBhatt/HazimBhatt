@@ -70,7 +70,7 @@ This is just the public side of the work.
 ## Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazimbhatt&theme=tokyonight" height=17/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazimbhatt&theme=tokyonight" height=170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hazimbhatt&theme=tokyonight" height="170"/>
 </p>
 
